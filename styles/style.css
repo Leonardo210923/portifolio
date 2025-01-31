@@ -124,4 +124,8 @@ body{
     .apresentacao__links__navegacao {
         background-color: #272727;
     }    
+    .apresentacao__imagem {
+        margin-bottom: 0%;
+        width: 50%;
+    }
 }
